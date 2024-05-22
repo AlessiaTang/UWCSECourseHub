@@ -1,0 +1,285 @@
+[
+    {
+        "lecture description": null,
+        "links": []
+    },
+    {
+        "lecture description": "Intro and Counting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/01-intro.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/01-intro.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/01-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/01-intro-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/01-intro-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "More Counting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/02-more-counting.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/02-more-counting.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/02-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/02-more-counting-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/02-more-counting-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Even More Counting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/03-inclusion-exclusion.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/03-inclusion-exclusion.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/03-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/03-inclusion-exclusion-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/03-inclusion-exclusion-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Somehow, More Counting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/04-counting-practice.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/04-counting-practice.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/04-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/04-counting-practice-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/04-counting-practice-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Discrete Probability",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/05-probability.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/05-probability.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/05-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/05-probability-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/05-probability-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Conditioning",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/06-conditional.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/06-conditional.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/06-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/06-conditional-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/06-conditional-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "More Bayes",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/07-bayes.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/07-bayes.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/07-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/07-bayes-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/07-bayes-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Independence",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/08-independence.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/08-independence.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/08-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/08-independence-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/08-independence-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Applications! (Bayes)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/09-applications.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/09-applications.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/09-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/09-applications-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/09-applications-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Random Variables",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/10-random-variables.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/10-random-variables.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/10-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/10-random-variables-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/10-random-variables-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Expectation and Variance",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/11-expectation.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/11-expectation.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/11-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/11-expectation-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/11-expectation-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Linearity of Expectation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/12-linearity.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/12-linearity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/12-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/12-linearity-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/12-linearity-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Variance",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/13-variance.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/13-variance.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/13-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/13-variance-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/13-variance-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Discrete RV Zoo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/14-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/14-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/14-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/14-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/14-zoo-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Continuous Probability",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/15-continuous.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/15-continuous.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/15-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/15-continuous-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/15-continuous-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Continuous Zoo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/16-continuous-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/16-continuous-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/16-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/16-continuous-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/16-continuous-zoo-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "More Zoo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/17-more-continuous-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/17-more-continuous-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/17-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/17-more-continuous-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/17-more-continuous-zoo-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Central Limit Theorem",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/18-CLT.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/18-CLT.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/18-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/18-CLT-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/18-CLT-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Joint Distributions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-joint-probability.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-joint-probability.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-joint-probability-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-joint-probability-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Applications! (CLT)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/20-polling.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/20-polling.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/20-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/19-joint-probability-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/20-polling-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Markov's, Chebyshev's Inequalities",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/21-tail1.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/21-tail1.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/21-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/21-tail1-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/21-tail1-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Chernoff's Inequality",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/22-tail2.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/22-tail2.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/22-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/22-tail2-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/22-tail2-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Applications! (Tail bounds)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/23-application-tails.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/23-application-tails.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/23-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/23-application-tails-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/23-application-tails-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Maximum Likelihood Estimation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/24-MLE1.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/24-MLE1.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/24-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/24-MLE1-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/24-MLE1-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "More MLEs",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/25-MLE2.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/25-MLE2.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/25-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/25-MLE2-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/25-MLE2-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Randomized Algorithms",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/26-MLE-alg.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/26-MLE-alg.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/26-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/26-MLE-alg-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/26-MLE-alg-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Hodgepodge",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/27-hodgepodge.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/27-hodgepodge.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/27-activity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/27-hodgepodge-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/27-hodgepodge-b.pdf"
+        ]
+    },
+    {
+        "lecture description": "Victory Lap",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/28-victory-lap.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/28-victory-lap.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/28-victory-lap-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/23sp/lecture/28-victory-lap-b.pdf"
+        ]
+    }
+]
