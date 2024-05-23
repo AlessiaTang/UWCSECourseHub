@@ -11,6 +11,7 @@ def read_json_file(filename):
 
 CSE312_23sp = read_json_file("CSE312_23sp_lecture.json")
 CSE332_23sp = read_json_file("CSE332_23sp_lecture.json")
+CSE414_24sp = read_json_file("CSE414_24sp_lecture.json")
 
 @app.route('/')
 def info():
@@ -48,6 +49,28 @@ def get_cse332_all_resource():
 def get_cse332_resource(keyword):
     matching_data = []
     for lecture in CSE332_23sp:
+        description = lecture.get('lecture description')  # Get the value associated with 'lecture description' key
+        if description and keyword.lower() in description.lower():
+            matching_data.append({
+                'lecture description': description,
+                'links': lecture['links']
+            })
+
+    if matching_data:
+        return json.dumps(matching_data)
+    else:
+        return 'No matching lecture descriptions found for the keyword: {}'.format(keyword)
+
+
+
+@app.route('/CSE414/24sp/')
+def get_cse414_all_resource():
+    return jsonify(CSE414_24sp)
+
+@app.route('/CSE414/24sp/<keyword>')
+def get_cse414_resource(keyword):
+    matching_data = []
+    for lecture in CSE414_24sp:
         description = lecture.get('lecture description')  # Get the value associated with 'lecture description' key
         if description and keyword.lower() in description.lower():
             matching_data.append({

@@ -35,7 +35,7 @@ def info():
     message=f"""
        Hello, I am your API.
        You can call my functions
-       hello or hello(xinya!!)
+       hello or hello(xinya)
     """ 
     return message 
 
