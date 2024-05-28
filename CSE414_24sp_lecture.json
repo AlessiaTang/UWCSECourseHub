@@ -5,157 +5,107 @@
     },
     {
         "lecture description": "Introduction",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec01_introduction-414.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec01_introduction-414.pdf"
     },
     {
         "lecture description": "SQL Basics",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec02_sql_basics.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec02_sql_basics.pdf"
     },
     {
         "lecture description": "SQL Joins",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec03_joins.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec03_joins.pdf"
     },
     {
         "lecture description": "SQL: NULLs, Aggregates",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec04_aggregates.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec04_aggregates.pdf"
     },
     {
         "lecture description": "SQL Aggregates cont.",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec05_aggregates.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec05_aggregates.pdf"
     },
     {
         "lecture description": "SQL Review",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec06_sql_review_so_far.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec06_sql_review_so_far.pdf"
     },
     {
         "lecture description": "Subqueries in SQL",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec07_subqueries.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec07_subqueries.pdf"
     },
     {
         "lecture description": "SQL Wrapup",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec08_subqueries.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec08_subqueries.pdf"
     },
     {
         "lecture description": "Relational Algebra",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec09_relational_algebra.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec09_relational_algebra.pdf"
     },
     {
         "lecture description": "ER Diagrams",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec10_ra_and_erd.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec10_ra_and_erd.pdf"
     },
     {
         "lecture description": "ER Diagrams",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec11_designtheory.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec11_designtheory.pdf"
     },
     {
         "lecture description": "Functional Dependencies",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec12_FD.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec12_FD.pdf"
     },
     {
         "lecture description": "BCNF",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec13_BCNF.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec13_BCNF.pdf"
     },
     {
         "lecture description": "Midterm review",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/midterm-whitespace-practice.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/midterm-whitespace-practice.pdf"
     },
     {
         "lecture description": "TXN Basics",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec16_txn.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec16_txn.pdf"
     },
     {
         "lecture description": "Serializability",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec17_locks.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec17_locks.pdf"
     },
     {
         "lecture description": "Locks",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec18_locks.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec18_locks.pdf"
     },
     {
         "lecture description": "Isolation Levels",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec19_isolationlevels.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec19_isolationlevels.pdf"
     },
     {
         "lecture description": "TXN Wrapup",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec20_txn_wrapup.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec20_txn_wrapup.pdf"
     },
     {
         "lecture description": "Practical Data Management",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec21_management.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec21_management.pdf"
     },
     {
         "lecture description": "Query Execution",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec22_query_execution.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec22_query_execution.pdf"
     },
     {
         "lecture description": "Disks and Indexes",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec23_indexes.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec23_indexes.pdf"
     },
     {
         "lecture description": "Query Optimization (8.3-4, 14.1-7)",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec24_optimization.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec24_optimization.pdf"
     },
     {
         "lecture description": "Semistructured Data",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec25_semistructured.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec25_semistructured.pdf"
     },
     {
         "lecture description": "SQL++",
-        "links": [
-            "https://courses.cs.washington.edu/courses/cse414/24sp/lecture/https:/courses.cs.washington.edu/courses/cse414/24sp/lectures/lec26_sqlpp.pdf"
-        ]
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec26_sqlpp.pdf"
     },
     {
-        "lecture description": null,
-        "links": []
+        "lecture description": "SQL++ (VIDEO ONLY!)",
+        "links": "https://courses.cs.washington.edu/courses/cse414/24sp/lectures/lec27_sqlpp.pdf"
     },
     {
         "lecture description": null,

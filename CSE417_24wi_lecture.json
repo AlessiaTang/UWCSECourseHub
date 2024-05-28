@@ -1,0 +1,246 @@
+[
+    {
+        "lecture description": null,
+        "links": []
+    },
+    {
+        "lecture description": "Intro/Stable Matchings",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/01-logistics.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/01-logistics.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/01-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/01-logistics-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "More Stable Matchings",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/02-SM.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/02-SM.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/02-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/02-SM-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Stable Matching Wrap-up",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/03-more-SM.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/03-more-SM.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/03-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/03-more-SM-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Implications, Proofs",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/04-contrapositives.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/04-contrapositives.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/04-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/04-contrapositives-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Running Times, Graphs BFS",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/05-time-BFS.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/05-time-BFS.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/05-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/05-time-BFS-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DFS",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/06-BFS-DFS.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/06-BFS-DFS.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/06-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/06-BFS-DFS-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Graph Modeling",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/07-modeling.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/07-modeling.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/07-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/07-modeling-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Divide and Conquer  I",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/08-dc1.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/08-dc1.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/08-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/08-dc1-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "D&C II (max subarray sum)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/09-dc2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/09-dc2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/09-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/09-dc2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Wrap D&C, Dynamic Programming",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/10-dc-dp.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/10-dc-dp.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/10-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/10-dc-dp-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DP II (make code iterative)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/11-dp2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/11-dp2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/11-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/11-dp2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DP III (multiple recurrences)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/12-dp3.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/12-dp3.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/12-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/12-dp3-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DP IV (trickier problems)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/13-dp4.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/13-dp4.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/13-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/13-dp4-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DP V (practice and trees)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/14-dp5.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/14-dp5.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/14-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/14-dp5-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "DP VI (graph DP)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/15-dp-graphs.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/15-dp-graphs.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/15-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/15-dp-graphs-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "LPs I",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/16-lp1.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/16-lp1.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/16-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/16-lp1-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "LPs II",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/17-lp2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/17-lp2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/17-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/17-lp2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Flow I",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/18-flow1.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/18-flow1.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/18-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/18-flow1-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Flow II",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/19-flow2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/19-flow2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/19-flow2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "P v. NP and Reductions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/20-reductions1.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/20-reductions1.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/20-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/20-reductions1-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "More Reductions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/21-reductions2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/21-reductions2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/21-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/21-reductions2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Reductions III",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/22-reductions3.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/22-reductions3.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/22-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/22-reductions3-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Coping with NP-hardness",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/23-cope1.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/23-cope1.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/23-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/23-cope1-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "More coping/Approximation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/24-cope2.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/24-cope2.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/24-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/24-cope2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Wrap Approximation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/25-cope3.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/25-cope3.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/24-cope2-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Greedy",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/25-26-greedy.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/25-26-greedy.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/25-26-greedy-a.pdf"
+        ]
+    },
+    {
+        "lecture description": "Greedy / Course Wrap-up",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/27-course-wrap.pptx",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/27-course-wrap.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/27-activity-417.pdf",
+            "https://courses.cs.washington.edu/courses/cse417/24wi/lecture/27-course-wrap-a.pdf"
+        ]
+    }
+]

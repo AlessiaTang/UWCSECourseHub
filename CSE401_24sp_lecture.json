@@ -1,0 +1,148 @@
+[
+    {
+        "lecture description": "Course introduction",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/A-overview.pdf"
+        ]
+    },
+    {
+        "lecture description": "Intro. to parsing; regexps and scanning (Read ch. 1, 2.1-2.4)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/B-regexp.pdf"
+        ]
+    },
+    {
+        "lecture description": "regexps & FAs (cont.)",
+        "links": []
+    },
+    {
+        "lecture description": "Scanners (concl.); Grammars and ambiguity (start) (3.1-3.2)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/C-grammars.pdf"
+        ]
+    },
+    {
+        "lecture description": "Grammars and ambiguity (concl.)",
+        "links": []
+    },
+    {
+        "lecture description": "LR (bottom-up) parsing (start) (3.4)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/D-lr-parsing.pdf"
+        ]
+    },
+    {
+        "lecture description": "LR parsing (concl.)",
+        "links": []
+    },
+    {
+        "lecture description": "LR table construction (3.5)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/E-lr-construction.pdf"
+        ]
+    },
+    {
+        "lecture description": "LR conflicts, first/follow (no new slides)",
+        "links": []
+    },
+    {
+        "lecture description": "ASTs & visitors",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/H-ASTs.pdf"
+        ]
+    },
+    {
+        "lecture description": "LL Parsing & recursive descent (3.3)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/F-ll-parsing.pdf"
+        ]
+    },
+    {
+        "lecture description": "Intro to semantics and type checking (4.1-4.2)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/I-semantics.pdf"
+        ]
+    },
+    {
+        "lecture description": "Symbol tables and representation of types (no new slides)",
+        "links": []
+    },
+    {
+        "lecture description": "Type checking / semantics wrapup (no new slides)",
+        "links": []
+    },
+    {
+        "lecture description": "IRs",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/G-IRs.pdf"
+        ]
+    },
+    {
+        "lecture description": "x86-64  (everything you forgot from 351)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/J-x86-64.pdf"
+        ]
+    },
+    {
+        "lecture description": "x86-64 function calls; Code shape I - basics (start)",
+        "links": []
+    },
+    {
+        "lecture description": "Code shape I",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/K-codeshape-1.pdf"
+        ]
+    },
+    {
+        "lecture description": "Code shape II - objects and dynamic dispatch (start)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/L-codeshape-2.pdf"
+        ]
+    },
+    {
+        "lecture description": "Code shape II (concl.)",
+        "links": []
+    },
+    {
+        "lecture description": "Opt. overview (start)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/N-optimization.pdf"
+        ]
+    },
+    {
+        "lecture description": "Opt. overview (concl); project codegen & bootstrap (start)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/M-x86-64-project.pdf"
+        ]
+    },
+    {
+        "lecture description": "Dataflow (start)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/O-dataflow.pdf"
+        ]
+    },
+    {
+        "lecture description": "Dataflow (concl.); SSA (start)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/P-ssa.pdf"
+        ]
+    },
+    {
+        "lecture description": "SSA (concl.) - no new slides",
+        "links": []
+    },
+    {
+        "lecture description": "Back end overview; instruction selection",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse401/24sp/lectures/Q-backend.pdf"
+        ]
+    },
+    {
+        "lecture description": "Instruction scheduling & register allocation (no new slides)",
+        "links": []
+    },
+    {
+        "lecture description": "GC & course wrap up",
+        "links": []
+    }
+]

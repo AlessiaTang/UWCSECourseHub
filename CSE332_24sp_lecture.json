@@ -1,0 +1,195 @@
+[
+    {
+        "lecture description": "Intro; ADTs; Stacks & Queues",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/01_Intro.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/01_Intro.pptx"
+        ]
+    },
+    {
+        "lecture description": "Algorithm Analysis 1",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/02_AlgorithmAnalysis.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/02_AlgorithmAnalysis.pptx"
+        ]
+    },
+    {
+        "lecture description": "Algorithm Analysis 2",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/03_AlgorithmAnalysis2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/03_AlgorithmAnalysis2.pptx",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/03_AskingQuestions.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/03_AskingQuestions.pptx"
+        ]
+    },
+    {
+        "lecture description": "Priority Queues 1: ADT",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/04_PriorityQueues.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/04_PriorityQueues.pptx"
+        ]
+    },
+    {
+        "lecture description": "Priority Queues 2: Binary Heap",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/05_PriorityQueues2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/05_PriorityQueues2.pptx"
+        ]
+    },
+    {
+        "lecture description": "Algorithm Analysis 3",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/06_Recurrences.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/06_Recurrences.pptx"
+        ]
+    },
+    {
+        "lecture description": "Dictionaries 1: ADT & Binary Search Trees",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/07_DictionariesBST.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/07_DictionariesBST.pptx"
+        ]
+    },
+    {
+        "lecture description": "Dictionaries 2: AVL Trees",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/08_AVL.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/08_AVL.pptx"
+        ]
+    },
+    {
+        "lecture description": "Dictionaries 3: AVL Trees (cont.) & B-Trees",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/09_BTrees.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/09_BTrees.pptx"
+        ]
+    },
+    {
+        "lecture description": "B-Trees (cont.)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/10_BTrees2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/10_BTrees2.pptx"
+        ]
+    },
+    {
+        "lecture description": "Dictionaries 4: Hashing",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/11_Hashing1.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/11_Hashing1.pptx"
+        ]
+    },
+    {
+        "lecture description": "Dictionaries 5: More Hashing",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/12_Hashing2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/12_Hashing2.pptx",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/lecture12.txt"
+        ]
+    },
+    {
+        "lecture description": "Sorting 1: Comparison Sorting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/13_ComparisonSorting.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/13_ComparisonSorting.pptx"
+        ]
+    },
+    {
+        "lecture description": "Sorting 2: Beyond Comparison Sorting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/14_BeyondComparisonSorting.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/14_ComparisonSorting.pptx"
+        ]
+    },
+    {
+        "lecture description": "Graphs 1: Intro",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/15_Graphs.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/15_Graphs.pptx"
+        ]
+    },
+    {
+        "lecture description": "Graphs 2: Graph Traversals",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/16_GraphTraversals.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/16_GraphTraversals.pptx"
+        ]
+    },
+    {
+        "lecture description": "Graphs 3: Shortest Paths",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/17_ShortestPaths.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/17_ShortestPaths.pptx"
+        ]
+    },
+    {
+        "lecture description": "Parallelism 1: Intro to Fork-Join",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/18_Multithreading.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/18_Multithreading.pptx"
+        ]
+    },
+    {
+        "lecture description": "Parallelism 2: Analysis",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/19_ForkJoinAnalysis.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/19_ForkJoinAnalysis.pptx"
+        ]
+    },
+    {
+        "lecture description": "Parallelism 3: Parallel Prefix",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/20_ParallelPrefixSum.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/20_ParallelPrefixSum.pptx"
+        ]
+    },
+    {
+        "lecture description": "More Parallelism 3: Parallel Sorting",
+        "links": []
+    },
+    {
+        "lecture description": "Synchronization 1: Concurrency & Mutual Exclusion",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/22_Concurrency1.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/22_Concurrency1.pptx"
+        ]
+    },
+    {
+        "lecture description": "Synchronization 2: Race Conditions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/23_Concurrency2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/23_Concurrency2.pptx"
+        ]
+    },
+    {
+        "lecture description": "Synchronization 2: More Race Conditions & Deadlock",
+        "links": []
+    },
+    {
+        "lecture description": "Graphs 4: Topo Sort",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/25_TopologicalSort.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/25_TopologicalSort.pptx"
+        ]
+    },
+    {
+        "lecture description": "Graphs 5: Minimum Spanning Trees",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/26_MinimumSpanningTrees.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/26_MinimumSpanningTrees.pptx"
+        ]
+    },
+    {
+        "lecture description": "P, NP, NP-Complete",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/27_PNP_1.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/27_PNP_1.pptx"
+        ]
+    },
+    {
+        "lecture description": "P, NP, NP-Complete II",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/28_PNP_2.pdf",
+            "https://courses.cs.washington.edu/courses/cse332/24sp/lectures/materials/28_PNP_2.pptx"
+        ]
+    }
+]

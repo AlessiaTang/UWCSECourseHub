@@ -1,1 +1,7 @@
 requests
+bs4
+json
+re
+urllib.parse
+flask
+json

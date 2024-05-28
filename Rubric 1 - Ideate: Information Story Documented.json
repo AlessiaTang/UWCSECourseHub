@@ -1,0 +1,23 @@
+[
+    {
+        "project_name": "Building a Database Product for Accessing UW CSE Course Resources",
+        "project_summary": "The project aims to create a centralized API that aggregates lecture resources information from open-source CSE courses at the UW.  The API will support lectures resource query from course, quarters, and topics dimension, providing students outside the Computer Science school easy access to online resources for CSE courses.",
+        "information story": {
+            "main concepts": {
+                "Fuel Type": "The primary data fueling this product will be information extracted from course calendars, lecture resource links, scrapped from the CSE courses websites",
+                "Location": "The data will be sourced from the official websites of the CSE courses at UW through Python web scraping tools and stored on the local service, and the API is built on the basis of the local resource files.",
+                "Burn Estimation": "Parsing calendar data, extracting lecture topics, resources, and organizing them by quarter and course.",
+                "Measure Date": "As the official websites of the CSE courses are updated on a monthly or quarterly basis, the local resource files also need to be updated at least every month."
+            },
+            "info wareframes": {
+                "Homepage": "The API homepage will introduce the usage of the product. It will also display all the courses that already supported by the product.",
+                "Course Page": "Users can query for a specific course page. Each course page displays the course name and course general info.",
+                "Course Quarter Page": "Users can query for a specific course quarter page. Each course quarter page presents all of the lecture content of a specific course in a specific quarter.",
+                "Topic Search": "In each course quarter page, users can query specific topic keywords to get the related lecture resources."
+            },
+            "access type": "The product will be accessible through a web api. Users will access it via any web browser, ensuring compatibility across devices and platforms.",
+            "basic hosting": "I am considering host the web api on Github repository"
+        },
+        "possible_information_structure": "JSON data including lectore resource hyperlinks such as doc, pptx, pdf; text data such as lecture topic."
+    }
+]

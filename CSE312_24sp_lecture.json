@@ -1,0 +1,293 @@
+[
+    {
+        "lecture description": "01: Administrivia, Counting",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/01-intro.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/01-intro.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/01-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/01-intro-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/01-intro-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209227/"
+        ]
+    },
+    {
+        "lecture description": "02: More Counting (Combinations, Permutations)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/02-more-counting.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/02-more-counting.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/02-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/02-more-counting-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/02-more-counting-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209207/"
+        ]
+    },
+    {
+        "lecture description": "03: Even More Counting (Inclusion-Exclusion)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/03-inclusion-exclusion.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/03-inclusion-exclusion.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/03-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/03-inclusion-exclusion-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/03-inclusion-exclusion-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4293835"
+        ]
+    },
+    {
+        "lecture description": "04: Wrap Counting (Stars and Bars, Practice)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/04-counting-practice.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/04-counting-practice.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/04-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/04-counting-practice-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/04-counting-practice-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209208"
+        ]
+    },
+    {
+        "lecture description": "05: Discrete Probability",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/05-probability.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/05-probability.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/05-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/05-probability-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/05-probability-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209209/"
+        ]
+    },
+    {
+        "lecture description": "06: Conditional Probability",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/06-conditional.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/06-conditional.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/06-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/06-conditional-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/06-conditional-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209232"
+        ]
+    },
+    {
+        "lecture description": "07: Bayes' Rule",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/07-bayes.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/07-bayes.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/07-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/07-bayes-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/07-bayes-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4316605"
+        ]
+    },
+    {
+        "lecture description": "08: Independence",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/08-independence.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/08-independence.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/08-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/08-independence-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/08-independence-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209216"
+        ]
+    },
+    {
+        "lecture description": "09: Bayes Applications and Basic Random Variables",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/09-applications.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/09-applications.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/09-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/09-applications-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/09-applications-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209228/"
+        ]
+    },
+    {
+        "lecture description": "10: Random Variables, More Independence",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/10-random-variables.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/10-random-variables.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/10-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/10-random-variables-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/10-random-variables-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209229/"
+        ]
+    },
+    {
+        "lecture description": "11: Expectation and Variance",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/11-variance.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/11-variance.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/11-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/11-variance-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/11-variance-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209212/"
+        ]
+    },
+    {
+        "lecture description": "12: Linearity of Expectation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/12-linearity.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/12-linearity.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/12-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/12-linearity-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/12-linearity-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209237/"
+        ]
+    },
+    {
+        "lecture description": "13: Catch-up and Discrete Zoo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/13-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/13-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/13-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/13-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/13-zoo-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209215/"
+        ]
+    },
+    {
+        "lecture description": "14: More Discrete Zoo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/14-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209218/"
+        ]
+    },
+    {
+        "lecture description": "15: Continuous Probability",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/15-continuous.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/15-continuous.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/15-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/15-continuous-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/15-continuous-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209220"
+        ]
+    },
+    {
+        "lecture description": "16: Continuous Zoo (unif, exp)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/16-continuous-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/16-continuous-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/16-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/16-continuous-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/16-continuous-zoo-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209239"
+        ]
+    },
+    {
+        "lecture description": "17: More Continuous Zoo (guassian)",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/17-more-continuous-zoo.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/17-more-continuous-zoo.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/17-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/courses.cs.washington.edu/courses/cse312/24sp/resources/z_table.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/17-more-continuous-zoo-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/17-more-continuous-zoo-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209219/"
+        ]
+    },
+    {
+        "lecture description": "18: Central Limit Theorem",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/18-CLT.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/18-CLT.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/18-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/18-CLT-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/18-CLT-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209222/"
+        ]
+    },
+    {
+        "lecture description": "19: Joint Distributions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/19-joint-probability.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/19-joint-probability.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/19-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/19-joint-probability-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/19-joint-probability-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209223/"
+        ]
+    },
+    {
+        "lecture description": "20: More Joint Distributions",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/20-more-joint.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/20-more-joint.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/20-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/20-more-joint-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/20-more-joint-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209241/"
+        ]
+    },
+    {
+        "lecture description": "21: Markov, Chebyshev",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/21-tail1.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/21-tail1.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/21-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/21-tail1-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/21-tail1-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4454312/"
+        ]
+    },
+    {
+        "lecture description": "22: Chernoff",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/22-tail2.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/22-tail2.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/22-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/22-tail2-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/22-tail2-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4454313/"
+        ]
+    },
+    {
+        "lecture description": "23: Tail Bound Applications",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/23-application-tails.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/23-application-tails.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/23-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/23-application-tails-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/23-application-tails-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4454314/"
+        ]
+    },
+    {
+        "lecture description": "24: Maximum Likelihood Estimation",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/24-MLE1.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/24-MLE1.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/24-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/24-MLE1-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/24-MLE1-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209242/"
+        ]
+    },
+    {
+        "lecture description": "25: More MLE's",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/25-MLE2.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/25-MLE2.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/25-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/25-MLE2-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/25-MLE2-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4209243/"
+        ]
+    },
+    {
+        "lecture description": "26: Hodgepodge",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/26-hodgepodge.pptx",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/26-hodgepodge.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/26-activity-312.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/26-hodgepodge-a.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/26-hodgepodge-b.pdf",
+            "https://courses.cs.washington.edu/courses/cse312/24sp/lecture/https:/www.gradescope.com/courses/749870/assignments/4494580/"
+        ]
+    },
+    {
+        "lecture description": "27: Randomized Algorithms",
+        "links": []
+    },
+    {
+        "lecture description": "28: Victory Lap",
+        "links": []
+    }
+]

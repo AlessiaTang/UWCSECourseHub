@@ -5,7 +5,7 @@ import re
 from urllib.parse import urljoin
 
 
-response = get('https://courses.cs.washington.edu/courses/cse414/24sp/calendar/calendar.html')
+response = get('https://courses.cs.washington.edu/courses/cse401/24sp/calendar/calendar.html')
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -13,29 +13,28 @@ lecture_divs = soup.find_all("div", class_="lecture")
 
 lecture_data = []
 
-base_url = "https://courses.cs.washington.edu/courses/cse414/24sp/"
+base_url = "https://courses.cs.washington.edu/courses/cse401/24sp/"
 
 for div in lecture_divs:
+
     description_span = div.find("span", class_="description")
-
+    
+    # Check if the <span> element exists
     if description_span:
-        a_element = description_span.find('a')
-        
-        if a_element:
-            link_text = a_element.get_text()
-            link_url = a_element["href"]
-        else:
-            link_text = None
-            link_url = []
-        
+        # Extract lecture description
+        description = description_span.get_text()
     else:
-        link_text = None
-        link_url = []
+        # If <span> element is not found, set description to None or handle the case accordingly
+        description = None
 
- 
+    materials_span = div.find("span", class_="materials")
+    if materials_span:
+        links = [urljoin(base_url, "lecture/" + a["href"]) for a in materials_span.find_all("a")]
+    else:
+        links = []
     
     # Combine lecture description and links into a dictionary
-    lecture_info = {"lecture description": link_text, "links": link_url}
+    lecture_info = {"lecture description": description, "links": links}
 
     # Append dictionary to list
     lecture_data.append(lecture_info)
@@ -47,7 +46,7 @@ json_data = json.dumps(lecture_data, indent=4)
 print(json_data)
 
 # Save JSON data to file
-with open("CSE414_24sp_lecture.json", "w") as file:
+with open("CSE401_24sp_lecture.json", "w") as file:
     file.write(json_data)
 
 #find all links that contain "lecture" in the link

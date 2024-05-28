@@ -1,0 +1,227 @@
+[
+    {
+        "lecture description": null,
+        "links": []
+    },
+    {
+        "lecture description": "Intro and C review",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/01-intro-c.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/01-intro-c-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c2ab740-8658-44c5-aab1-b13b0177dde0"
+        ]
+    },
+    {
+        "lecture description": "C Arrays and memory",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/02-c-arrays.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/02-c-arrays-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3aae0803-43eb-4f37-92c7-b13b0177e24a"
+        ]
+    },
+    {
+        "lecture description": "Pointers, pointers, pointers, ...",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/03-c-pointers.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/03-c-pointers-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d83d3fd-d986-483a-83c9-b13b0177e8c2"
+        ]
+    },
+    {
+        "lecture description": "The Heap and Structs",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/04-c-heap-structs.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/04-c-heap-structs",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a93032a6-2d17-495e-84fe-b13b0177ecf9"
+        ]
+    },
+    {
+        "lecture description": "C Data structures and modules",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/05-c-modules.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/05-c-modules-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bca2cdcc-d3c9-4d6a-8b5a-b13b0177f0bc"
+        ]
+    },
+    {
+        "lecture description": "Final C details",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/06-c-details.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/06-c-details-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dee762bf-d7b4-4321-a288-b13b0177faeb"
+        ]
+    },
+    {
+        "lecture description": "Build tools",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/07-c-make.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/07-c-make-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=427f675e-49e8-49dd-9fa2-b13b0177ffb7"
+        ]
+    },
+    {
+        "lecture description": "File I/O & System calls",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/08-io+syscalls.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/08-io+syscalls-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56cf8846-3b74-4086-89ac-b13b01780444"
+        ]
+    },
+    {
+        "lecture description": "System calls (cont.) & Posix I/O",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/09-posix.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/09-posix-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a5113ac-6242-4674-8ba8-b13b0178099d"
+        ]
+    },
+    {
+        "lecture description": "C++ intro",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/10-c++-intro.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/10-c++-intro-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc20f87e-e9c2-458a-928c-b13b01780db8"
+        ]
+    },
+    {
+        "lecture description": "C++ references and const",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/11-c++-refs-const-classes.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/11-c++-refs-const-classes-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa22da68-1f50-497b-9508-b13b01781205"
+        ]
+    },
+    {
+        "lecture description": "C++ classes and constructor insanity",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/12-c++-ctr-insanity.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/12-c++-ctr-insanity-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c45fc1be-bd52-4bde-99a5-b13b01781866"
+        ]
+    },
+    {
+        "lecture description": "C++ class details",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/13-c++-details+heap.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/13-c++-details+heap-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59ec2e96-e217-4dd5-b04c-b13b01781cb0"
+        ]
+    },
+    {
+        "lecture description": "C++ heap; C++ templates",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/13-c++-details+heap.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/13-c++-details+heap-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/14-c++-templates.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/14-c++-templates-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c6cf299-ba9d-4a0d-bb0b-b13b01782180"
+        ]
+    },
+    {
+        "lecture description": "C++ templates (cont.); STL",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/14-c++-templates.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/14-c++-templates-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/15-c++-STL.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/15-c++-STL-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e884d36c-f49a-4708-bcfc-b13b0178258c"
+        ]
+    },
+    {
+        "lecture description": "STL (cont.); Smart pointers",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/16-c++-smartptr.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/16-c++-smartptr-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=392928f1-ef28-47e3-bd17-b13b017829ca"
+        ]
+    },
+    {
+        "lecture description": "Smart Pointers (cont.) & HW3 demo",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/16-c++-smartptr.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/16-c++-smartptr-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0cd3c2e3-4804-4312-80de-b13b01783017"
+        ]
+    },
+    {
+        "lecture description": "C++ Inheritance, Part I",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/18-c++-inheritance.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/18-c++-inheritance-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9164be1-1808-4ce6-9c13-b13b017835a5"
+        ]
+    },
+    {
+        "lecture description": "C++ Inheritance, Part II; C++ casts",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/19-c++-inheritance-casts.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/19-c++-casts-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=077cf648-6acd-4287-b72b-b13b01783a17"
+        ]
+    },
+    {
+        "lecture description": "Network programming: Intro",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/20-network-intro.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d25ff1ba-726f-49e5-9d27-b13b01783d25"
+        ]
+    },
+    {
+        "lecture description": "Network programming: DNS and C APIs",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/21-network-dns.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/21-network-dns-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be3cab57-c907-4153-9760-b13b017840ae"
+        ]
+    },
+    {
+        "lecture description": "Network programming: client-side",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/22-network-client.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/22-network-client-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=445c7687-52d6-4c63-8677-b13b0178463c"
+        ]
+    },
+    {
+        "lecture description": "Network programming: server-side",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/23-network-server.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/23-network-server-code",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3929142-f0b4-4b68-bb40-b13b01784967"
+        ]
+    },
+    {
+        "lecture description": "HTTP",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/24-http.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/24-http-demos.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4651237-52f3-4326-bf00-b13b01784dee"
+        ]
+    },
+    {
+        "lecture description": "Concurrency: intro",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/25-concurrency.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lecture/https:/uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4961260e-abc9-46c5-8b98-b13b017851d3"
+        ]
+    },
+    {
+        "lecture description": "Concurrency: threads",
+        "links": [
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/26-threads.pdf",
+            "https://courses.cs.washington.edu/courses/cse333/24sp/lectures/26-threads-code"
+        ]
+    },
+    {
+        "lecture description": "Concurrency: processes",
+        "links": []
+    },
+    {
+        "lecture description": "Guest panel (TBD)",
+        "links": []
+    },
+    {
+        "lecture description": "Course wrapup",
+        "links": []
+    }
+]
