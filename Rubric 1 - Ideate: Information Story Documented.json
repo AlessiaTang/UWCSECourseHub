@@ -1,6 +1,6 @@
 [
     {
-        "project_name": "Building a Database Product for Accessing UW CSE Course Resources",
+        "project_name": "UW CSE Course Hub",
         "project_summary": "The project aims to create a centralized API that aggregates lecture resources information from open-source CSE courses at the UW.  The API will support lectures resource query from course, quarters, and topics dimension, providing students outside the Computer Science school easy access to online resources for CSE courses.",
         "information story": {
             "main concepts": {

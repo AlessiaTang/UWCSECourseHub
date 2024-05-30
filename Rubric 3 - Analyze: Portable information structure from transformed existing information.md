@@ -21,6 +21,7 @@ For existing information: Access to the data is typically through web browser an
 For the new information structure: The UW CSE Course Resource API is accessed in this process:
 
 - Open the Chrome browser;
+- Homepage will show the usage of the product, and also display all the courses that already supported by the product.
 - Input the course name (such as /CSE312) as the API endpoint, get the introduction of a certain course;
 - Input the course name and course quarter (such as /CSE312/23sp) as the API endpoint, get all the lecture resource links of a certain course in a certain quarter;
 - Input the course name, course quarter, and the interested topic keyword (such as /CSE312/23sp/counting) as the API endpoint, get all the lecture resource links of a certain course in a certain quarter, while the corresponding lecture descrption include the topic keyword;

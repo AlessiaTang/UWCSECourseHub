@@ -1,6 +1,6 @@
-# Data Accuracy:
+# Data Integrity:
 
-The accuracy and integrity of scraped data may be compromised by inconsistencies or errors on source websites structure. Implementing more robust and dynamic web scraping techniques and more advanced data validation and verification mechanisms can help ensure the reliability of information presented to users.
+The accuracy and integrity of scraped data may be compromised by inconsistencies or errors on source websites structure. Implementing more robust and dynamic web scraping techniques and more advanced data validation and verification mechanisms can help ensure the integrity of information presented to users.
 
 # Data timeliness:
 
